@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishal Rao</h1>
-<h3 align="center">Data Analyst & Backend Developer Turning data and backend logic into impactful solutions.</h3>
+<h3 align="center">QA Engineer & Backend Developer bridging quality assurance with reliable backend development.</h3>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python,Java,mysql**
+- 💬 Ask me about **Python, Java, MySQL, JavaScript**
 
 - 📫 How to reach me **vishalraorajput9628@gmail.com**
 
